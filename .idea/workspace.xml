@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7ebb1a0-54af-4e5e-b454-f0b611a47814" name="Default Changelist" comment="Finished old school BIG Class method Calculator, missing some validations Helper static methods, but it's enough for this evening :) for this I spend five hours... :).&#10;&#10;// comment for new commit.">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SDA-Java-course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstStep/FirstStep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstStep/src/edu/dainius/SecondLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oop/Oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oop/src/edu/dainius/classroom/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oop/src/edu/dainius/classroom/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstStep/src/edu/dainius/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstStep/src/edu/dainius/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstStep/src/edu/dainius/HomeWork2.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstStep/src/edu/dainius/HomeWork2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oop/src/edu/dainius/homework1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Oop/src/edu/dainius/homework1/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i6e3Yb71yg9NDmrELVIqBfvgN0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Projects/Java-Homework-chapter1-homework-calculator" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\daini\Documents\SDA-Java-course\edu\dainius" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dainius.HelloWorld" />
+      <module name="FirstStep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.dainius.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dainius.classroom.Main" />
+      <module name="Oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.dainius.classroom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dainius.calculator.Main" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.dainius.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegexTestPatternMatcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dainius.calculator.RegexTestPatternMatcher" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.dainius.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dainius.classroom.Main.java" />
+      <module name="Oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.RegexTestPatternMatcher" />
+      <item itemvalue="Application.java" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.RegexTestPatternMatcher" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.java" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7ebb1a0-54af-4e5e-b454-f0b611a47814" name="Default Changelist" comment="" />
+      <created>1601232269280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601232269280</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First task at class.">
+      <created>1601233055688</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601233055688</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finished first step homework tasks.">
+      <created>1601490209394</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601490209394</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finished first step second homework tasks.">
+      <created>1602873181104</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602873181104</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Finished OOP homework tasks.">
+      <created>1603342505668</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603342505668</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Finished old school BIG Class method Calculator, missing some validations Helper static methods, but it's enough for this evening :) for this I spend five hours... :).">
+      <created>1604271926418</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604271926418</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Finished old school BIG Class method Calculator, missing some validations Helper static methods, but it's enough for this evening :) for this I spend five hours... :).&#10;&#10;// comment for new commit.">
+      <created>1604272393797</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604272393797</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First task at class." />
+    <MESSAGE value="Finished first step homework tasks." />
+    <MESSAGE value="Finished first step second homework tasks." />
+    <MESSAGE value="Finished OOP homework tasks." />
+    <MESSAGE value="Finished old school BIG Class method Calculator, missing some validations Helper static methods, but it's enough for this evening :) for this I spend five hours... :)." />
+    <MESSAGE value="Finished old school BIG Class method Calculator, missing some validations Helper static methods, but it's enough for this evening :) for this I spend five hours... :).&#10;&#10;// comment for new commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished old school BIG Class method Calculator, missing some validations Helper static methods, but it's enough for this evening :) for this I spend five hours... :).&#10;&#10;// comment for new commit." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="236" key="#Notifications" timestamp="1601400658806">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="520" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1601400658806" />
+    <state x="2680" y="83" key="#Project_Structure" timestamp="1603520797506">
+      <screen x="1920" y="-191" width="2560" height="1400" />
+    </state>
+    <state x="2680" y="83" key="#Project_Structure/0.0.1920.1040/1920.-191.2560.1400@1920.-191.2560.1400" timestamp="1603520797506" />
+    <state x="411" y="165" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603563508465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2654" y="164" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-191.2560.1400@1920.-191.2560.1400" timestamp="1603531187502" />
+    <state x="411" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603563508465" />
+    <state x="2971" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603521216017">
+      <screen x="1920" y="-191" width="2560" height="1400" />
+    </state>
+    <state x="2971" y="311" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.-191.2560.1400@1920.-191.2560.1400" timestamp="1603521216017" />
+    <state x="2883" y="107" key="#com.intellij.ide.util.MemberChooser" timestamp="1603529356389">
+      <screen x="1920" y="-191" width="2560" height="1400" />
+    </state>
+    <state x="2883" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-191.2560.1400@1920.-191.2560.1400" timestamp="1603529356389" />
+    <state x="722" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603302793400" />
+    <state x="2930" y="303" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1602957390465">
+      <screen x="1920" y="-191" width="2560" height="1400" />
+    </state>
+    <state x="2930" y="303" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040/1920.-191.2560.1400@1920.-191.2560.1400" timestamp="1602957390465" />
+    <state x="2839" y="226" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1602957451628">
+      <screen x="1920" y="-191" width="2560" height="1400" />
+    </state>
+    <state x="2839" y="226" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.-191.2560.1400@1920.-191.2560.1400" timestamp="1602957451628" />
+    <state x="689" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601838037134" />
+    <state x="689" y="397" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601837943022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="397" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1601837943022" />
+    <state x="740" y="275" width="698" height="490" key="FileChooserDialogImpl" timestamp="1604328423227">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" width="698" height="490" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604328423227" />
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1604272514417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="317" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601407175701" />
+    <state width="1234" height="381" key="GridCell.Tab.0.bottom/0.0.1920.1040/-243.-1440.2560.1400@-243.-1440.2560.1400" timestamp="1602920731970" />
+    <state width="1860" height="381" key="GridCell.Tab.0.bottom/0.0.1920.1040/-243.-1440.2560.1400@0.0.1920.1040" timestamp="1602934632179" />
+    <state width="2517" height="541" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-191.2560.1400@1920.-191.2560.1400" timestamp="1603562159876" />
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604272514417" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1604272514417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="317" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601407175701" />
+    <state width="1234" height="381" key="GridCell.Tab.0.center/0.0.1920.1040/-243.-1440.2560.1400@-243.-1440.2560.1400" timestamp="1602920731969" />
+    <state width="1860" height="381" key="GridCell.Tab.0.center/0.0.1920.1040/-243.-1440.2560.1400@0.0.1920.1040" timestamp="1602934632179" />
+    <state width="2517" height="541" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-191.2560.1400@1920.-191.2560.1400" timestamp="1603562159876" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604272514417" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1604272514417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="317" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601407175701" />
+    <state width="1234" height="381" key="GridCell.Tab.0.left/0.0.1920.1040/-243.-1440.2560.1400@-243.-1440.2560.1400" timestamp="1602920731969" />
+    <state width="1860" height="381" key="GridCell.Tab.0.left/0.0.1920.1040/-243.-1440.2560.1400@0.0.1920.1040" timestamp="1602934632179" />
+    <state width="2517" height="541" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-191.2560.1400@1920.-191.2560.1400" timestamp="1603562159876" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604272514417" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1604272514417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="317" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601407175701" />
+    <state width="1234" height="381" key="GridCell.Tab.0.right/0.0.1920.1040/-243.-1440.2560.1400@-243.-1440.2560.1400" timestamp="1602920731970" />
+    <state width="1860" height="381" key="GridCell.Tab.0.right/0.0.1920.1040/-243.-1440.2560.1400@0.0.1920.1040" timestamp="1602934632179" />
+    <state width="2517" height="541" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-191.2560.1400@1920.-191.2560.1400" timestamp="1603562159876" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604272514417" />
+    <state width="1877" height="277" key="GridCell.Tab.1.bottom" timestamp="1604272514417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604272514417" />
+    <state width="1877" height="277" key="GridCell.Tab.1.center" timestamp="1604272514417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604272514417" />
+    <state width="1877" height="277" key="GridCell.Tab.1.left" timestamp="1604272514417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604272514417" />
+    <state width="1877" height="277" key="GridCell.Tab.1.right" timestamp="1604272514417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604272514417" />
+    <state x="2980" y="285" width="440" height="485" key="RefactorJ.WrapReturnValue" timestamp="1602957464159">
+      <screen x="1920" y="-191" width="2560" height="1400" />
+    </state>
+    <state x="2980" y="285" width="440" height="485" key="RefactorJ.WrapReturnValue/0.0.1920.1040/1920.-191.2560.1400@1920.-191.2560.1400" timestamp="1602957464159" />
+    <state x="478" y="137" width="1040" height="853" key="SettingsEditor" timestamp="1603563556990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2329" y="17" width="1575" height="981" key="SettingsEditor/0.0.1920.1040/1920.-191.2560.1400@1920.-191.2560.1400" timestamp="1603561991351" />
+    <state x="478" y="137" width="1040" height="853" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603563556990" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1604271304130">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1604271304130" />
+    <state x="451" y="183" key="Vcs.Push.Dialog.v2" timestamp="1604272402440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601233181793" />
+    <state x="451" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604272402440" />
+    <state x="1222" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604272105408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1222" y="421" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604272105408" />
+    <state x="490" y="42" key="new project wizard" timestamp="1604249079089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="392" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601232882308" />
+    <state x="490" y="42" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1604249079089" />
+    <state x="755" y="267" key="refactoring.ChangeSignatureDialog" timestamp="1603216440801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="755" y="267" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603216440801" />
+    <state x="2856" y="235" key="run.anything.popup" timestamp="1603529420693">
+      <screen x="1920" y="-191" width="2560" height="1400" />
+    </state>
+    <state x="2856" y="235" key="run.anything.popup/0.0.1920.1040/1920.-191.2560.1400@1920.-191.2560.1400" timestamp="1603529420693" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604254970678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2751" y="112" width="896" height="913" key="search.everywhere.popup/0.0.1920.1040/1920.-191.2560.1400@1920.-191.2560.1400" timestamp="1603531268984" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604254970678" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.String" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="stringArray[i]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SDA_Java_course$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1603529711286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.dainius.classroom.*</FILTER>
+    </SUITE>
+  </component>
+</project>

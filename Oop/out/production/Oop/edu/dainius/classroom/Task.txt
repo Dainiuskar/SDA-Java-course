@@ -1,0 +1,27 @@
+Public calss sprendomas(){
+
+String s;
+Int[] cost;
+
+Konstruktorius inicijuoja ivestus duomenis.
+
+metodas be parametru paiima fildus.
+ir juos modifikuoja
+
+Norit paimti masyva per geteri paimamas fildas .
+Taip gauname rrezultata. Pakeista stringa ir costus sudeliotus.
+
+
+}
+
+ {1,2,3,4,2,6};
+" a b a a a c"
+
+ {1,2,2,6};
+" a b a c"
+=======================
+ {9,1,2,3,4,2,6};
+" a a b a a a c"
+
+ {9,2,2,6};
+" a b a c"
